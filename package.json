@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "angularfire2": "^2.0.0-beta.7"
+  },
+  "devDependencies": {
+    "angularfire2": "^2.0.0-beta.7"
+  }
+}
