@@ -9,7 +9,7 @@ To use this template, either create a new ionic project using the ionic node.js 
 
 ### With the Ionic CLI:
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+ionic-starter-af2 currently exists only on my github page, so it is best used this way:
 
 ```bash
 $ sudo npm install -g ionic cordova
@@ -24,3 +24,21 @@ $ ionic run ios
 ```
 
 Substitute ios for android if not on a Mac.
+
+or
+
+```bash
+$ ionic serve
+```
+
+### Prerequisites
+
+1. Ionic cli v.2.1.18 or greater
+2. Probably requires a minimum version of node
+3. You have to make your own Firebase database
+4. YOU MUST ACCEPT FULL RESPONSIBILITY FOR ANY RESULTING DAMAGE/SECURITY HOLES/RISING SEA WATER/POPULIST REVOLTS IN ORDER TO USE THIS STARTER
+
+### THIEVERY
+1. I based this starter template on the [ionic2-starter-blank](https://github.com/driftyco/ionic2-starter-blank) template. If that was verboten, sorry. Let me know and I will atone.
+2. I included the MIT license because I almost understand it. Basically, any rights which I have, I give to you, provided you don't refuse those rights to anybody else for any reason.
+
